@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   The Tercet Tech Blog written by Bryce Kinsey.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://brycekinsey.github.io-tercettech'
+url: 'https://tercettech.brycekinsey.com'
 
 github:
   username: brycekinsey            # change to your github username
